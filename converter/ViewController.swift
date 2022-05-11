@@ -129,7 +129,7 @@ class ViewController: UIViewController {
             backgroundImage.trailingAnchor.constraint(equalTo: view.trailingAnchor),
             backgroundImage.bottomAnchor.constraint(equalTo: view.bottomAnchor),
 
-            segmebtedControl.topAnchor.constraint(equalTo: topLabel.bottomAnchor, constant: 50),
+            segmebtedControl.topAnchor.constraint(equalTo: topLabel.bottomAnchor, constant: 20),
             segmebtedControl.centerXAnchor.constraint(equalTo: view.centerXAnchor),
             segmebtedControl.widthAnchor.constraint(equalToConstant: 100),
             segmebtedControl.heightAnchor.constraint(equalToConstant: 50),
