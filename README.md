@@ -3,5 +3,5 @@
    Программа способна конвертировать градусы Цельсия в градусы Фаренгейта или Кельвина на выбор в помощью слайдера. 
 
 Скриншот:
-![]()
+![](https://github.com/NGrani/SimpleConverterDegree/blob/main/Simulator%20Screen%20Shot%20-%20iPhone%2013%20Pro%20Max%20-%202022-05-11%20at%2020.50.15.png)
 
